@@ -1,14 +1,13 @@
 # 🛍️ Black Friday & Cyber Monday Deals 2025
 ## The Complete Daily-Updated Repository
 
-**Last Updated:** November 10, 2025, 11:57 PM IST  
+**Last Updated:** November 15, 2025, 05:07 PM IST
 **Black Friday:** November 28, 2025  
 **Cyber Monday:** December 1, 2025
 
-[![GitHub stars](https://img.shields.io/github/stars/yogeshkumar22/awesome-black-friday-deals-2025?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
-[![Daily Updates](https://img.shields.io/badge/updates-daily-brightgreen.svg?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
-[![Deals Count](https://img.shields.io/badge/deals-200%2B-blue.svg?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yogeshkumar22/awesome-black-friday-deals-2025)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![Daily Updates](https://img.shields.io/badge/updates-daily-brightgreen.svg)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![Deals Count](https://img.shields.io/badge/deals-420%2B-blue.svg)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
 
 ---
 
@@ -16,8 +15,8 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Active Deals** | 200+ |
-| **Categories** | 15+ |
+| **Total Active Deals** | 420+ |
+| **Categories** | 12+ |
 | **Last Verified** | Nov 10, 2025 |
 | **New Deals Today** | 15 |
 | **Expiring Soon** | 8 |
@@ -42,7 +41,7 @@
 
 ---
 
-## 💻 Developer Tools & SaaS (95+ Deals)
+## 💻 Developer Tools & SaaS (95 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -144,7 +143,7 @@
 
 ---
 
-## 🤖 AI Tools & Services (45+ Deals)
+## 🤖 AI Tools & Services (45 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -196,7 +195,7 @@
 
 ---
 
-## ✨ Productivity Software (40+ Deals)
+## ✨ Productivity Software (40 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -243,7 +242,7 @@
 
 ---
 
-## 🚀 Marketing & SEO Tools (35+ Deals)
+## 🚀 Marketing & SEO Tools (35 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -285,7 +284,7 @@
 
 ---
 
-## 🎨 Design & Creative Tools (30+ Deals)
+## 🎨 Design & Creative Tools (30 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -322,7 +321,7 @@
 
 ---
 
-## ☁️ Cloud Storage & Hosting (40+ Deals)
+## ☁️ Cloud Storage & Hosting (40 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -369,7 +368,7 @@
 
 ---
 
-## 🔒 VPN & Security (25+ Deals)
+## 🔒 VPN & Security (25 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -401,7 +400,7 @@
 
 ---
 
-## 🎓 Online Courses & Education (35+ Deals)
+## 🎓 Online Courses & Education (35 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -443,7 +442,7 @@
 
 ---
 
-## 📺 Streaming Services (12+ Deals)
+## 📺 Streaming Services (12 Deals)
 
 | # | Service | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -462,7 +461,7 @@
 
 ---
 
-## 📅 Project Management (20+ Deals)
+## 📅 Project Management (20 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -489,7 +488,7 @@
 
 ---
 
-## 🛒 WordPress Plugins & Themes (25+ Deals)
+## 🛒 WordPress Plugins & Themes (25 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -521,7 +520,7 @@
 
 ---
 
-## 🛍️ eCommerce Tools (18+ Deals)
+## 🛍️ eCommerce Tools (18 Deals)
 
 | # | Product | Discount | Code | Link | Valid Until |
 |---|---------|----------|------|------|-------------|
@@ -594,7 +593,7 @@ Found a deal? Submit a PR!
 
 ---
 
-**Last Updated:** November 10, 2025, 11:57 PM IST  
+**Last Updated:** November 15, 2025, 05:07 PM IST
 **Next Update:** November 11, 2025, 12:00 AM IST (Auto)
 
 **Happy Shopping! 🎉 Save Thousands This Black Friday!**
