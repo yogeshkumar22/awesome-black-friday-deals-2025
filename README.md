@@ -5,9 +5,10 @@
 **Black Friday:** November 28, 2025  
 **Cyber Monday:** December 1, 2025
 
-[![GitHub stars](https://img.shields.io/github/stars/yogeshkumar22/awesome-black-friday-deals-2025)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
-[![Daily Updates](https://img.shields.io/badge/updates-daily-brightgreen.svg)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
-[![Deals Count](https://img.shields.io/badge/deals-200%2B-blue.svg)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![GitHub stars](https://img.shields.io/github/stars/yogeshkumar22/awesome-black-friday-deals-2025?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![Daily Updates](https://img.shields.io/badge/updates-daily-brightgreen.svg?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![Deals Count](https://img.shields.io/badge/deals-200%2B-blue.svg?style=flat-square)](https://github.com/yogeshkumar22/awesome-black-friday-deals-2025)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
 ---
 
