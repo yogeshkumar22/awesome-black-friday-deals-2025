@@ -1,7 +1,7 @@
 # 🛍️ Black Friday & Cyber Monday Deals 2025
 ## The Complete Daily-Updated Repository
 
-**Last Updated:** September 04, 2026, 06:44 PM IST
+**Last Updated:** September 05, 2026, 03:37 AM IST
 **Black Friday:** November 28, 2025  
 **Cyber Monday:** December 1, 2025
 
@@ -594,7 +594,7 @@ Found a deal? Submit a PR!
 
 ---
 
-**Last Updated:** September 04, 2026, 06:44 PM IST
+**Last Updated:** September 05, 2026, 03:37 AM IST
 **Next Update:** November 11, 2025, 12:00 AM IST (Auto)
 
 **Happy Shopping! 🎉 Save Thousands This Black Friday!**
