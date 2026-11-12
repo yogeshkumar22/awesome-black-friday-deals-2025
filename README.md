@@ -440,6 +440,7 @@
 | 33 | **CBT Nuggets** | IT training | Auto-applied | [cbtnuggets.com](https://cbtnuggets.com) | Black Friday |
 | 34 | **Cybrary** | Cybersecurity courses | Auto-applied | [cybrary.it](https://cybrary.it) | Black Friday |
 | 35 | **INE Security** | Advanced IT/security | Auto-applied | [ine.com](https://ine.com) | Black Friday |
+| 36 | **VantagePoint** | 70% off all hacking labs & certifications | Auto-applied | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com) | Dec 15, 2026 |
 
 ---
 
