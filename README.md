@@ -141,6 +141,7 @@
 | 93 | **Narrato** | 40% annual (1yr) / 30% 1st yr | NARRATOBF40 / BFCM24NRT | [narrato.io](https://narrato.io) | Dec 3, 2025 |
 | 94 | **Gamma** | 30% annual Pro | GAMMABF30 | [gamma.app](https://gamma.app) | Dec 4, 2025 |
 | 95 | **Jenni AI** | 50% annual | JENNIBF50 | [jenni.ai](https://jenni.ai) | Dec 1, 2025 |
+| 96 | **BundleWP** | 87% off — $129 for all 11 products (regular $1,029) | BUNDLE129 | [bundlewp.com](https://bundlewp.com/complete-business-software-bundle/) | Dec 1, 2026 |
 
 ---
 
