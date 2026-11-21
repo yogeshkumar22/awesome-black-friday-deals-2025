@@ -240,6 +240,9 @@
 | 38 | **CloudTalk** | 50% first month | Auto-applied | [cloudtalk.io](https://cloudtalk.io) | Dec 20, 2025 |
 | 39 | **Otter.ai** | 25% annual Pro | OTTERBF25 | [otter.ai](https://otter.ai) | Nov 30, 2025 |
 | 40 | **Star Order (GitHub manager)** | 25% off | App Store | [starorder.app](https://starorder.app) | Black Friday |
+| 41 | **Presentify (macOS)** | 30% off, direct purchase from website | PRESENTIFY30 | [presentifyapp.com](https://presentifyapp.com) | Dec 2, 2026 (starts Nov 18) |
+| 42 | **FaceScreen (Mac/iPhone/iPad)** | 30% off, direct purchase from website | FACESCREEN30 | [facescreen.app](https://facescreen.app) | Dec 2, 2026 (starts Nov 18) |
+| 43 | **KeyScreen (macOS)** | 30% off, direct purchase from website | KEYSCREEN30 | [keyscreen.app](https://keyscreen.app) | Dec 2, 2026 (starts Nov 18) |
 
 ---
 
